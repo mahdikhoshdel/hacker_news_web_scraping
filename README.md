@@ -1,4 +1,4 @@
-# hacker-news-web-scraping-bs4
+# hacker news web scraping bs4
 Web scraping top rate news of Hacker news website
 
 Using `BeautifulSoup` and `requests` libraries.
